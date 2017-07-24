@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.e37c5b90.css",
   "main.css.map": "static/css/main.e37c5b90.css.map",
-  "main.js": "static/js/main.3c1d304f.js",
-  "main.js.map": "static/js/main.3c1d304f.js.map",
+  "main.js": "static/js/main.6ea476b9.js",
+  "main.js.map": "static/js/main.6ea476b9.js.map",
   "static\\media\\Roboto-Bold.woff": "static/media/Roboto-Bold.eed9aab5.woff",
   "static\\media\\Roboto-Bold.woff2": "static/media/Roboto-Bold.c0f1e4a4.woff2",
   "static\\media\\Roboto-Light.woff": "static/media/Roboto-Light.ea36cd9a.woff",
@@ -36,5 +36,6 @@
   "static\\media\\screen-comoto.png": "static/media/screen-comoto.2484fd60.png",
   "static\\media\\screen-nemox.png": "static/media/screen-nemox.a95d73de.png",
   "static\\media\\screen-priznaj.png": "static/media/screen-priznaj.8842a938.png",
+  "static\\media\\screen-pwa-portfolio.png": "static/media/screen-pwa-portfolio.a33f05e4.png",
   "static\\media\\screen-server-dashboard.png": "static/media/screen-server-dashboard.16ebe92f.png"
 }
